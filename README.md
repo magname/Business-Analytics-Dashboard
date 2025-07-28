@@ -87,15 +87,3 @@ This template can be adapted for:
 
 [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 This dataset, provided by IBM Sample Data Sets, includes information about a telecom company's customers, such as services signed up for, customer account information, and whether or not the customer churned. It's commonly used for customer retention and churn prediction modeling.
-
-## 2. Official Library Documentation:
-
-• Pandas Documentation
-
-• NumPy Documentation
-
-• Matplotlib Documentation
-
-• Seaborn Documentation
-
-• Scikit-learn Documentation
