@@ -1,0 +1,5 @@
+USE master;
+GO
+
+ALTER AUTHORIZATION ON DATABASE::TelcoCustomerChurn TO [DESKTOP-U7AOA5H\wasee];
+GO
